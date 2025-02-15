@@ -5,7 +5,7 @@ Cybersecurity incidents require swift and accurate forensic analysis, but tradit
 
 ## Demo Video - Deployed Project Link
 - **Demo Video:** [Insert Video Link]
-- **Deployed Project:** [Insert Deployment Link]
+- **Deployed Project:** https://dedsecai-hof.vercel.app/
 
 ## Features and Functions
 1. **Automated Breach Detection:** AI-driven analysis to identify anomalies and unauthorized access.
